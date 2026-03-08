@@ -93,6 +93,7 @@ export default function RootLayout({
           name="description"
           content="Portfolio of Usama Riaz — Full Stack Developer, AI Automation Expert, and Web3 builder. Building digital products that work."
         />
+        <link rel="icon" href="/projects/my%20img6.jpeg" sizes="any" />
       </head>
       <body
         className={`${playfair.variable} ${jetbrains.variable} bg-black text-white overflow-x-hidden antialiased`}
